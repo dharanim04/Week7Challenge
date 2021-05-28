@@ -52,7 +52,7 @@
     /* width: 100%; */
     background-size: cover;
     background-position: center center;
-    background-image: url("./img/hero.jpg");
+    background-image: url("../img/hero.jpg");
 }
 .text-info::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #1d9191;
